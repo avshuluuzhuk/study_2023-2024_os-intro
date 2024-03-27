@@ -58,7 +58,7 @@ header-includes:
 
 ## Выполнение индивидуального проекта
 
-Загружаем скрмп, используя команду: wget https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh
+Загружаем скрипт, используя команду: wget https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh
 
 ![загрузка скрипта](image/2.png){#fig:002 width=70%}
 
