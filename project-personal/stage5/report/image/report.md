@@ -1,7 +1,7 @@
 ---
 ## Front matter
-title: "Индивидуальный проект. 5 этап"
-subtitle:
+title: "Индивидуальный проект. 3 этап"
+subtitle: "Использование Hydra"
 author: "Шулуужук Айраана Вячеславовна НПИбд-02-22"
 
 ## Generic otions
